@@ -1,0 +1,107 @@
+[
+  {
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "price": 1.001,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "price": 4508.62,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.992262,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "price": 4605.34,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 0.999367,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "price": 4533.77,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "price": 0.999979,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "price": 0.501629,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353",
+    "price": 1.024,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999805,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
+    "price": 2.57,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "price": 4886.43,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "price": 4296.83,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "price": 1.001,
+    "time": 1755600335901,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "price": 5191.11,
+    "time": 1755600338077,
+    "source": "coingecko"
+  }
+]
