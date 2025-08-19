@@ -21,7 +21,6 @@ export async function updatePrices(): Promise<void> {
       // Fetch missing prices from CoinGecko
       const tokenPrices: Price[] = await fetchPricesFromCoinGecko(assetTokens);
       const vaultPrices = remapVaultToPrice(vaultTokens);
-
       const prices = [...vaultPrices, ...tokenPrices];
 
       console.log(`Saving ${prices.length} prices for chain ${chainId}`);

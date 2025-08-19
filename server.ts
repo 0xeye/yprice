@@ -7,6 +7,7 @@ import pricesHandler from './api/prices';
 import healthcheckHandler from './api/healthcheck';
 import chainPricesHandler from './api/prices/[chainId]';
 import tokenPricesHandler from './api/prices/[tokens]';
+import formattedPricesHandler from './api/prices/formatted';
 import testHandler from './api/test';
 import debugHandler from './api/debug';
 import refreshHandler from './api/refresh';
@@ -46,6 +47,7 @@ app.get('/api/debug', vercelToExpress(debugHandler));
 app.get('/api/healthcheck', vercelToExpress(healthcheckHandler));
 app.post('/api/refresh', vercelToExpress(refreshHandler));
 app.get('/api/prices', vercelToExpress(pricesHandler));
+app.get('/api/prices/formatted', vercelToExpress(formattedPricesHandler));
 app.get('/api/prices/:chainId', (req, res) => {
   req.query.chainId = req.params.chainId;
   vercelToExpress(chainPricesHandler)(req, res);
@@ -64,6 +66,7 @@ app.listen(PORT, () => {
   console.log('  GET /api/healthcheck');
   console.log('  POST /api/refresh - Trigger price update');
   console.log('  GET /api/prices');
+  console.log('  GET /api/prices/formatted');
   console.log('  GET /api/prices/:chainId');
   console.log('  GET /api/prices/:tokens');
 });
