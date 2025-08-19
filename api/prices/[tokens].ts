@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { getPrices } from '@/services/redis';
-import { updatePricesForTokens } from '@/services/priceFetcher';
+import { updatePrices } from '@/services/priceFetcher';
 import type { Price } from '@/types';
 
 export default async function handler(req: VercelRequest, res: VercelResponse) {
@@ -38,7 +38,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     // Fetch missing prices
     let freshPrices: Price[] = [];
     if (tokensToFetch.length > 0) {
-      freshPrices = await updatePricesForTokens(tokensToFetch);
+      await updatePrices();
+      freshPrices = await getPrices(tokensToFetch[0].chainId);
     }
     
     // Combine cached and fresh prices

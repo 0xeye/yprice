@@ -1,9 +1,8 @@
-import { fetchPricesFromDefiLlama } from '../sources/defillama';
-import { fetchPricesFromCoinGecko } from '../sources/coingecko';
+import { fetchPricesFromCoinGecko, remapVaultToPrice } from '../sources/coingecko';
 import { fetchTokenList } from './tokenList';
 import { savePrices, setHealthcheck } from './redis';
 import { SUPPORTED_CHAINS } from '../types';
-import type { Price, Token } from '../types';
+import type { Price } from '../types';
 
 export async function updatePrices(): Promise<void> {
   console.log('Starting price update...');
@@ -16,27 +15,17 @@ export async function updatePrices(): Promise<void> {
       
       if (tokens.length === 0) continue;
       
-      // Fetch prices from DefiLlama first
-      console.log(`Fetching prices from DefiLlama for chain ${chainId}...`);
-      const defiLlamaPrices = await fetchPricesFromDefiLlama(tokens);
-      
-      // Find tokens without prices
-      const tokensWithoutPrices = tokens.filter(token => 
-        !defiLlamaPrices.find(p => p.address === token.address.toLowerCase())
-      );
-      
-      // Try CoinGecko for missing prices
-      let coingeckoPrices: Price[] = [];
-      if (tokensWithoutPrices.length > 0) {
-        console.log(`Fetching ${tokensWithoutPrices.length} missing prices from CoinGecko for chain ${chainId}...`);
-        coingeckoPrices = await fetchPricesFromCoinGecko(tokensWithoutPrices);
-      }
-      
-      // Combine prices (DefiLlama takes precedence)
-      const allPrices = [...defiLlamaPrices, ...coingeckoPrices];
-      
-      console.log(`Saving ${allPrices.length} prices for chain ${chainId}`);
-      await savePrices(chainId, allPrices);
+      const vaultTokens = tokens.filter(token => token.price); // Priced via share price
+      const assetTokens = tokens.filter(token => !token.price); // Priced via coingecko
+
+      // Fetch missing prices from CoinGecko
+      const tokenPrices: Price[] = await fetchPricesFromCoinGecko(assetTokens);
+      const vaultPrices = remapVaultToPrice(vaultTokens);
+
+      const prices = [...vaultPrices, ...tokenPrices];
+
+      console.log(`Saving ${prices.length} prices for chain ${chainId}`);
+      await savePrices(chainId, prices);
     } catch (error) {
       console.error(`Error updating prices for chain ${chainId}:`, error);
     }
@@ -45,38 +34,4 @@ export async function updatePrices(): Promise<void> {
   // Update healthcheck timestamp
   await setHealthcheck();
   console.log('Price update completed');
-}
-
-export async function updatePricesForTokens(tokens: Array<{ chainId: number; address: string }>): Promise<Price[]> {
-  const prices: Price[] = [];
-  
-  // Group tokens by chainId
-  const tokensByChain = tokens.reduce((acc, token) => {
-    if (!acc[token.chainId]) acc[token.chainId] = [];
-    acc[token.chainId].push({ chainId: token.chainId, address: token.address } as Token);
-    return acc;
-  }, {} as Record<number, Token[]>);
-  
-  for (const [chainId, chainTokens] of Object.entries(tokensByChain)) {
-    try {
-      // Try DefiLlama first
-      const defiLlamaPrices = await fetchPricesFromDefiLlama(chainTokens);
-      prices.push(...defiLlamaPrices);
-      
-      // Find tokens without prices
-      const tokensWithoutPrices = chainTokens.filter(token => 
-        !defiLlamaPrices.find(p => p.address === token.address.toLowerCase())
-      );
-      
-      // Try CoinGecko for missing prices
-      if (tokensWithoutPrices.length > 0) {
-        const coingeckoPrices = await fetchPricesFromCoinGecko(tokensWithoutPrices);
-        prices.push(...coingeckoPrices);
-      }
-    } catch (error) {
-      console.error(`Error fetching prices for chain ${chainId}:`, error);
-    }
-  }
-  
-  return prices;
 }

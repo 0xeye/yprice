@@ -12,11 +12,12 @@ interface KongVault {
     name: string;
     decimals: number;
   };
+  pricePerShare: bigint;
+  decimals: number;
 }
 
 export async function fetchTokenList(chainId: number): Promise<Token[]> {
   const tokens: Token[] = [];
-  const uniqueTokens = new Map<string, Token>();
   
   try {
     // GraphQL query to fetch vaults and their underlying assets
@@ -32,6 +33,8 @@ export async function fetchTokenList(chainId: number): Promise<Token[]> {
             name
             decimals
           }
+          pricePerShare
+          decimals
         }
       }
     `;
@@ -51,40 +54,31 @@ export async function fetchTokenList(chainId: number): Promise<Token[]> {
       throw new Error(`Kong API returned ${response.status}: ${response.statusText}`);
     }
     
-    const result = await response.json();
+    const result = await response.json() as any;
     
     if (result.errors) {
       throw new Error(`GraphQL errors: ${JSON.stringify(result.errors)}`);
     }
     
     const vaults: KongVault[] = result.data?.vaults || [];
-    
-    // Extract unique tokens from vaults
-    for (const vault of vaults) {
-      // Add the vault token itself
-      const vaultToken: Token = {
-        chainId: vault.chainId,
-        address: vault.address.toLowerCase(),
-        symbol: `yv${vault.asset.symbol}`,
-        decimals: 18, // Yearn vaults typically use 18 decimals
-      };
-      uniqueTokens.set(vaultToken.address, vaultToken);
-      
-      // Add the underlying asset
-      if (vault.asset) {
-        const assetToken: Token = {
-          chainId: vault.chainId,
-          address: vault.asset.address.toLowerCase(),
-          symbol: vault.asset.symbol,
-          decimals: vault.asset.decimals,
-        };
-        uniqueTokens.set(assetToken.address, assetToken);
-      }
-    }
-    
-    tokens.push(...uniqueTokens.values());
-    console.log(`Fetched ${tokens.length} unique tokens from Kong for chain ${chainId}`);
-    
+
+    const vaultTokens = vaults.map(vault => ({
+      chainId: vault.chainId,
+      address: vault.address.toLowerCase(),
+      symbol: `yv${vault.asset.symbol}`,
+      decimals: vault.decimals,
+      price: vault.pricePerShare ? Number(vault.pricePerShare) / 10 ** (vault.decimals || 18) : 0,
+    }));
+
+    const underlyingTokens = vaults.map(vault => ({
+      chainId: vault.chainId,
+      address: vault.asset.address.toLowerCase(),
+      symbol: vault.asset.symbol,
+      decimals: vault.asset.decimals,
+    }));
+
+    console.log(`Fetched ${vaultTokens.length} vault tokens and ${underlyingTokens.length} underlying tokens from Kong for chain ${chainId}`);
+    return [...vaultTokens, ...underlyingTokens];
   } catch (error) {
     console.error(`Kong GraphQL error for chain ${chainId}:`, error);
   }

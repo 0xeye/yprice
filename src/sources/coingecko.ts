@@ -8,6 +8,16 @@ interface CoinGeckoResponse {
   };
 }
 
+export function remapVaultToPrice(tokens: Token[]): Price[] {
+  return tokens.map(token => ({
+    chainId: token.chainId,
+    address: token.address.toLowerCase(),
+    price: token.price || 0,
+    time: Date.now(),
+    source: 'kong',
+  }));
+}
+
 export async function fetchPricesFromCoinGecko(tokens: Token[]): Promise<Price[]> {
   const prices: Price[] = [];
   const apiKey = process.env.COINGECKO_API_KEY;
@@ -34,13 +44,13 @@ export async function fetchPricesFromCoinGecko(tokens: Token[]): Promise<Price[]
       const url = `${COINGECKO_API}/${platform}?contract_addresses=${addresses}&vs_currencies=usd`;
       
       try {
-        const headers: HeadersInit = {};
+        const headers: Record<string, string> = {};
         if (apiKey) {
           headers['x-cg-demo-api-key'] = apiKey;
         }
         
         const response = await fetch(url, { headers });
-        const data: CoinGeckoResponse = await response.json();
+        const data: CoinGeckoResponse = await response.json() as any;
         
         for (const [address, value] of Object.entries(data)) {
           const token = chunk.find(t => t.address.toLowerCase() === address.toLowerCase());
