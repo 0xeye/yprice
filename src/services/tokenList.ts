@@ -68,6 +68,7 @@ export async function fetchTokenList(chainId: number): Promise<Token[]> {
       symbol: `yv${vault.asset.symbol}`,
       decimals: vault.decimals,
       price: vault.pricePerShare ? Number(vault.pricePerShare) / 10 ** (vault.decimals || 18) : 0,
+      assetAddress: vault.asset.address,
     }));
 
     const underlyingTokens = vaults.map(vault => ({

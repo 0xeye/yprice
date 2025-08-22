@@ -2,995 +2,988 @@
   {
     "chainId": 8453,
     "address": "0xe9f2a5f9f3c846f29066d7fb3564f8e6b6b2d65b",
-    "price": 1.029892,
-    "time": 1755610114107,
+    "price": 1.030242928946,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x69efa3cd7fc773fe227b9cc4f41132dcde020a29",
-    "price": 1.005202238109939,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x4d3ceba4349adb06d2de8ebd2f9320a61303ad81",
-    "price": 1.5403316739515092,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7c0fa3905b38d44c0f29150fd61f182d1e097ec2",
-    "price": 1.0446636378787446,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xfdb431e661372fa1146efb70bf120ecded944a78",
-    "price": 1.057398,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xf115c134c23c7a05fbd489a8be3116ebf54b0d9f",
-    "price": 4.558967,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xb13cf163d916917d9cd6e836905ca5f12a1def4b",
-    "price": 1.002948,
-    "time": 1755610114107,
+    "price": 1.003166557666,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf115c134c23c7a05fbd489a8be3116ebf54b0d9f",
+    "price": 4.562328566040001,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7c0fa3905b38d44c0f29150fd61f182d1e097ec2",
+    "price": 4894.611254332587,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfdb431e661372fa1146efb70bf120ecded944a78",
+    "price": 1.058086197448,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x03c5aff0cd5e40889d689fd9d9caff286b1bd7fb",
-    "price": 1.02971196,
-    "time": 1755610114107,
+    "price": 120098.74871786,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xc3bd0a2193c8f027b82dde3611d18589ef3f62a9",
-    "price": 1.033031,
-    "time": 1755610114107,
+    "price": 1.033814450298,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x25f32ec89ce7732a4e9f8f3340a09259f823b7d3",
-    "price": 1.02671215,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x31ce9ab5a358e5c802cc01080f29a65a14eb45b8",
-    "price": 1.8104043518557562,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd5428b889621eee8060fc105aa0ab0fa2e344468",
-    "price": 1.091661,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x985cc9c306bfe075f7c67ec275fb0b80f0b21976",
-    "price": 1.032559,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x945df73d55557ea23c0c35cd350d8de3b745287e",
-    "price": 11.364418,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xbb808a822dd7aed1635956b85ca5e55478cca957",
-    "price": 1.1574835,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xb837e84369f5e08f8e72c92b350329ae2b868cbc",
-    "price": 1.0042990395254379,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x639e31e7c4af5ba4cf5dfad438d082b2f58899e3",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x4d81c7d534d703e0a0aecadf668c0e0253e1f1c3",
-    "price": 1.0421802587540265,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x68393a804c9fe4f1c7148d37796436e450ad98e8",
-    "price": 4.609626525774187,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd1468af648565f11393e4033cb0cd270b62495c9",
-    "price": 1.067636,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x5b0532e7170148f2bd0d255d1cd9dce02bb5ce4e",
-    "price": 1.063889,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x8c589addbe1466a9b555eaa6ce8940ac1680c5f4",
-    "price": 9.636905626623653,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x989381f7efb45f97e46be9f390a69c5d94bf9e17",
-    "price": 1.0142104141305608,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x630db4ae19219025df594c943b638b5acb5e9d18",
-    "price": 1.0011341313574782,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xa3386f0a4034184ecb8a0d1e7e79b4f720634317",
-    "price": 1.2770907375281644,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x00f30115b5e828ab387b8190f8532ea7ceaf3fdc",
-    "price": 2.6501860601757046,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x68a0ba9ecad98bfd16d2457e2546226e8fb7c101",
-    "price": 2.1421554797329097,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd89a4f020c8d256a2a4b0dc40b36ee0b27680776",
-    "price": 1.0187108128656135,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x3fa853290b0a21396f2e7bf0d4a372927d6eb5b4",
-    "price": 1.00162849,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x3ed55314c0a4b1a1e3e6b4c9e0617d99c8b5fff8",
-    "price": 1.0326715527401518,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x12e3187d6b7a0ba98a427ef9ef287bd9960764d1",
-    "price": 5.674849210575216,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x0dcb575fd705f1352b0c0f8fa6a64a0561ce8c3c",
-    "price": 1.00112,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x2a1dbbf67942724c4fb00d99d56919254c1aea98",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x25eb9938fd219a77bb37654527707786a04abaac",
-    "price": 1.117909,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x0ace53f57a14acfd4d43c7d4c46be4b4a5347eff",
-    "price": 1.043881,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x8907b99db2393af47a48b4bb91abb509b52c5d8f",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xa7a8eb9f200ddd4137f71b92d3d44b403af20e44",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 119738.93498237,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x19f233b2953275196e6343f17b76da098c478e21",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31ce9ab5a358e5c802cc01080f29a65a14eb45b8",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd5428b889621eee8060fc105aa0ab0fa2e344468",
+    "price": 1.094944257806,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x985cc9c306bfe075f7c67ec275fb0b80f0b21976",
+    "price": 1.20839355,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x945df73d55557ea23c0c35cd350d8de3b745287e",
+    "price": 11.370594136188,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbb808a822dd7aed1635956b85ca5e55478cca957",
+    "price": 135008.49824132002,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb837e84369f5e08f8e72c92b350329ae2b868cbc",
+    "price": 5638.416011626875,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x639e31e7c4af5ba4cf5dfad438d082b2f58899e3",
+    "price": 5135.8,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4d81c7d534d703e0a0aecadf668c0e0253e1f1c3",
+    "price": 4882.950488664345,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x68393a804c9fe4f1c7148d37796436e450ad98e8",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd1468af648565f11393e4033cb0cd270b62495c9",
+    "price": 1.06871677276,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b0532e7170148f2bd0d255d1cd9dce02bb5ce4e",
+    "price": 1.063746438874,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8c589addbe1466a9b555eaa6ce8940ac1680c5f4",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x989381f7efb45f97e46be9f390a69c5d94bf9e17",
+    "price": 5208.851885437155,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x630db4ae19219025df594c943b638b5acb5e9d18",
+    "price": 4689.102033110843,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa3386f0a4034184ecb8a0d1e7e79b4f720634317",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00f30115b5e828ab387b8190f8532ea7ceaf3fdc",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x68a0ba9ecad98bfd16d2457e2546226e8fb7c101",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd89a4f020c8d256a2a4b0dc40b36ee0b27680776",
+    "price": 5232.008469472836,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3fa853290b0a21396f2e7bf0d4a372927d6eb5b4",
+    "price": 116800.89984739001,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ed55314c0a4b1a1e3e6b4c9e0617d99c8b5fff8",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x12e3187d6b7a0ba98a427ef9ef287bd9960764d1",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0dcb575fd705f1352b0c0f8fa6a64a0561ce8c3c",
+    "price": 1.00098584992,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a1dbbf67942724c4fb00d99d56919254c1aea98",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x25eb9938fd219a77bb37654527707786a04abaac",
+    "price": 1.117759200194,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0ace53f57a14acfd4d43c7d4c46be4b4a5347eff",
+    "price": 1.044621002026,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8907b99db2393af47a48b4bb91abb509b52c5d8f",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa7a8eb9f200ddd4137f71b92d3d44b403af20e44",
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xd80c675366966ef42b175125bbf1acb1db4151ac",
-    "price": 1.006065,
-    "time": 1755610114107,
+    "price": 1.00593018729,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xbd34db7ef42533a51eb0f53ed9d91d06880bcdf1",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xef34b4dcb851385b8f3a8ff460c34adafd160802",
-    "price": 1.696195902882972,
-    "time": 1755610114107,
+    "price": 7945.463700510142,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x59acb98b9e7b015457559f76a10a432d48aaee4a",
-    "price": 1.025084,
-    "time": 1755610114107,
+    "price": 1.024946638744,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x82a9cc022bffba4358a4286381c0855a8e295605",
-    "price": 1.0074794974042665,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xb3f14e3fda2147fa7574fd003ba40df266e0b90c",
-    "price": 1.049177,
-    "time": 1755610114107,
+    "price": 1.04942935762,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x50fd1e6e0e2153c2b26ebbcd9bcded4639a1aae3",
-    "price": 1.039223,
-    "time": 1755610114107,
+    "price": 1.039083744118,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x338dfa34f66b6922b9edec82da86519ce7938184",
-    "price": 1.000003,
-    "time": 1755610114107,
+    "price": 0.999868999598,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xaa4725c386164ea9ad932bc306a1f87da7526aca",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x81bdd5e8fbde5a85a2d38761d03d2307fe69a329",
-    "price": 1.0108589691031746,
-    "time": 1755610114107,
+    "price": 4734.651130895758,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x953370e91b70897a0cecc97b58e99d7946c841de",
-    "price": 76.182855,
-    "time": 1755610114107,
+    "price": 76.21065640342,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x369b2d0c701f791645ecf40f14d390f69a6023e3",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x5b6c2b7ac69ad287c7c9eb85e725f3799695df09",
-    "price": 9.989883,
-    "time": 1755610114107,
+    "price": 9.988544355678002,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xf3100b8ce14b4bd5bb369105ab6527011af384eb",
-    "price": 1.072221,
-    "time": 1755610114107,
+    "price": 1.25449857,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x0b538db1bd28ecc978e863d89ace34a9f9101fc2",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xff3035968a44df696297d710cb7c0d7f807bf641",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 1.17,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xb48faf41d6d627a38df88f0f1bc452ea2e4fd3c4",
-    "price": 1.003448,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x854020fb245753c1e71dff9d1b14528518050afb",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xde9de9dfb3cc912cccda145bd6cb8a145a66ea92",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7509d40ef0087611d2dfd76f0752d32783b8c2a2",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7bc2fdef0cf03d8488d7ab06c4a36b61725d06ec",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x26adf26c86bef23c4e1f66ddf2a62e6ecb98152e",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x94ca885c5498d6e53b802e589aa340878cb60b3a",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd8ba05abcbe0baf1ee748104da11fb8f717fd291",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xeed00e00236cd7f36f2558d8b5fd05046449599d",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x90097a6284cbac7677e3385b8adfb134a8acfc8f",
-    "price": 1.0136484604414449,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7f68862632a1c27a16fe75cd4225628547da6450",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xffec1057a5dd33fc74f453b88a6c62cc3d9446be",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7bc9e2d216b22611d9805c12e0c682391720752f",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x1f1969209e18f24282ce6fae9c27f6e1fe5a1d1b",
-    "price": 1.636659650789089,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xdd120ded7c1c9e4978f92847bcb24847a9dbb071",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x0017a89a230cb1304efcf7cab8855db29243474b",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x8436027a799ac6c8b512e68b4d3852217c63647d",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xa72a60e6167e8fc5e523184911475c4b37b835e2",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xf1ab463f264c229ce648c2052ebffcd98a6f325c",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xc31dfb6b3e053c4e06fa76853a6b3e367bc2233d",
-    "price": 1.129447,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7cbdf03ca2b633ca9fa613945ab4b19a46b3d671",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x44da1202285ed9678dab99b55aadb2fa549fdfdc",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x4dcc2ecaff01525fbcab3ed18823270f912a380a",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x3392f08d93de2e1675c2e0d19f3ed021746f742c",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xb9acb02818bddd3ac178fa51a0587101e54748b0",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x5b9b4f9b704faae29f600c04b12af92fb518604f",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x30bca23b220deb343f62c83eda1465546ac9c7f7",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x5b508fe98ac33da9352fa539e2efa9f1dda26c51",
-    "price": 1.334961991358294,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x37a74970f80adaa8215598e95a17cbed2c39030d",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 1.0033135379679998,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xecfc1e5bda4d4191c9cab053ec704347db87be5d",
-    "price": 1.3397347968985014,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7b8bf6d5557b7c1b5b0235b7cc2aca6345534cdd",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x84c9c1569aaa02b9a7fd0fa8021464b179e6ece6",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x141719bd8a203839c291b6927d13b32710932b90",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x37fdacd764aa64f4e453842d8056853e5550c09b",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x8f22d62434d5e52af442f69f43eb27ba20768692",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xa49dccd9425cc38d4111df2e665f2a33fe799c42",
-    "price": 1.391028706217862,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x80ba48973490a94941eaec6be8dbcff6a5aa8892",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x41102db56d0531be4560ec2db295e28a3c6954c7",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x987949d2dc1d2b70bc3284b556d3ecd2d7c060b7",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x3d0c3b02eb2788c97cdb0a23e369a49278e4b497",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xf4b57a2177e6695bc56fd16c042548baf4aa8f5a",
-    "price": 1.01071970348066,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x9e13e1cfcd750657b81549f8f773d68f1625dcfb",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xaccb6fa47e2da8f937f6e33bc25b68328b370d2e",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x391e5dc227cdcf3cca012e5278798121236b1861",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xa6cbdd6ae6596b5ee57f67df70cc7c801129464f",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xf8f36ab972f6fe3ae1f594595aee1284e270d034",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x99e860d5bbe61a12ca215aba714a2e886860dbc8",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
-    "address": "0x41489713d581ec717e1aa55b7729d24965cf96b5",
-    "price": 1,
-    "time": 1755610114107,
+    "address": "0x30bca23b220deb343f62c83eda1465546ac9c7f7",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x84c9c1569aaa02b9a7fd0fa8021464b179e6ece6",
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x58dce038423a1e43f3429cb62425a1364cc3bb4c",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
-    "address": "0x13454b672213f53cb1d31ea0be033c58fe315392",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x878b75772c0abf2d22a9d4a5ae062b1aadaaebb3",
-    "price": 1,
-    "time": 1755610114107,
+    "address": "0xd8ba05abcbe0baf1ee748104da11fb8f717fd291",
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x5c366341bb86bad85e78eba974e3f335c9488fa2",
-    "price": 1.7757848652790231,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x61812b7226d8cd931be995177056c0e90a8554fa",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xcad1719469bc67341eec1a29a07684fe075596da",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xf595152ceaf50fa854c4606a457d2388375d4fa0",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xb37e5b6e05e463c8a7daf5969063d238c9dfb728",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xc5d4869e3c4d7848dc4ffd6536f6d5f80ba19b4c",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xb65f1e6394aadc3dc1ad4b8e5cf79bbb566dc195",
-    "price": 1.0114910720581325,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xbdd79a7df622e9d9e19a7d92bc7ea212fa0d2f3e",
-    "price": 1.138459768851026,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x70fffbacb53ef74903ac074aae769414a70970d1",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x7f678f3f661364dcad39cc2946c31388a43ce1f4",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x8e462a2b3a8c2713b5e157f5f3a3cd503588e59a",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x1d7a8593c249ab84b2733d09a9e4a6b9e42140fe",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xd95872cf52477dd9116dbd1c5a3d9d595d37024a",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x89e5e885ae0c3a104b61cad820721310279d23aa",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x0de119f5790c4ecf6eed80aac7c25d2dcad10f0f",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0xfd059e58645bce3380677ae0b54d628a018e942b",
-    "price": 1,
-    "time": 1755610114107,
-    "source": "kong"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x505d8d76f7c86163c019719eae6c524074433619",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0x4d73de04431050347d6d94f7fab5887ea6737a18",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
-    "address": "0x6fb7cc0b6f0fcef9cf7c560beb68954efc142608",
-    "price": 1,
-    "time": 1755610114107,
+    "address": "0xf4b57a2177e6695bc56fd16c042548baf4aa8f5a",
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
-    "address": "0x1ba64974d7dfd6ab8ec4ded247ed104a2b04e6ec",
-    "price": 1,
-    "time": 1755610114107,
+    "address": "0xde9de9dfb3cc912cccda145bd6cb8a145a66ea92",
+    "price": 0.999866,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
-    "address": "0x9eb7675377d1191bed352552267e5b5e592fcf53",
-    "price": 1,
-    "time": 1755610114107,
+    "address": "0x90097a6284cbac7677e3385b8adfb134a8acfc8f",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7cbdf03ca2b633ca9fa613945ab4b19a46b3d671",
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xbcbe4815fa99971b4dd918adfb12599679ca4b0e",
-    "price": 1,
-    "time": 1755610114107,
+    "price": 4683.79,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7509d40ef0087611d2dfd76f0752d32783b8c2a2",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb37e5b6e05e463c8a7daf5969063d238c9dfb728",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeed00e00236cd7f36f2558d8b5fd05046449599d",
+    "price": 4683.79,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf595152ceaf50fa854c4606a457d2388375d4fa0",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfd059e58645bce3380677ae0b54d628a018e942b",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5d4869e3c4d7848dc4ffd6536f6d5f80ba19b4c",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcad1719469bc67341eec1a29a07684fe075596da",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x878b75772c0abf2d22a9d4a5ae062b1aadaaebb3",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61812b7226d8cd931be995177056c0e90a8554fa",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0de119f5790c4ecf6eed80aac7c25d2dcad10f0f",
+    "price": 1.17,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa72a60e6167e8fc5e523184911475c4b37b835e2",
+    "price": 4683.79,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x70fffbacb53ef74903ac074aae769414a70970d1",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f678f3f661364dcad39cc2946c31388a43ce1f4",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8e462a2b3a8c2713b5e157f5f3a3cd503588e59a",
+    "price": 0.999549,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9eb7675377d1191bed352552267e5b5e592fcf53",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1ba64974d7dfd6ab8ec4ded247ed104a2b04e6ec",
+    "price": 116611,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x854020fb245753c1e71dff9d1b14528518050afb",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1d7a8593c249ab84b2733d09a9e4a6b9e42140fe",
+    "price": 116201,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7f68862632a1c27a16fe75cd4225628547da6450",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd95872cf52477dd9116dbd1c5a3d9d595d37024a",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa49dccd9425cc38d4111df2e665f2a33fe799c42",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8436027a799ac6c8b512e68b4d3852217c63647d",
+    "price": 4683.79,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb9acb02818bddd3ac178fa51a0587101e54748b0",
+    "price": 116611,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdd120ded7c1c9e4978f92847bcb24847a9dbb071",
+    "price": 5135.8,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3392f08d93de2e1675c2e0d19f3ed021746f742c",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbdd79a7df622e9d9e19a7d92bc7ea212fa0d2f3e",
+    "price": 5566.950330627345,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb65f1e6394aadc3dc1ad4b8e5cf79bbb566dc195",
+    "price": 4737.611768395161,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc31dfb6b3e053c4e06fa76853a6b3e367bc2233d",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf8f36ab972f6fe3ae1f594595aee1284e270d034",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x94ca885c5498d6e53b802e589aa340878cb60b3a",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0017a89a230cb1304efcf7cab8855db29243474b",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26adf26c86bef23c4e1f66ddf2a62e6ecb98152e",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8f22d62434d5e52af442f69f43eb27ba20768692",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x987949d2dc1d2b70bc3284b556d3ecd2d7c060b7",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x13454b672213f53cb1d31ea0be033c58fe315392",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3d0c3b02eb2788c97cdb0a23e369a49278e4b497",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b508fe98ac33da9352fa539e2efa9f1dda26c51",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7bc2fdef0cf03d8488d7ab06c4a36b61725d06ec",
+    "price": 0.999549,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x505d8d76f7c86163c019719eae6c524074433619",
+    "price": 4683.79,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x37a74970f80adaa8215598e95a17cbed2c39030d",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x89e5e885ae0c3a104b61cad820721310279d23aa",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf1ab463f264c229ce648c2052ebffcd98a6f325c",
+    "price": 116201,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x141719bd8a203839c291b6927d13b32710932b90",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x44da1202285ed9678dab99b55aadb2fa549fdfdc",
+    "price": 5614.28,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41489713d581ec717e1aa55b7729d24965cf96b5",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x41102db56d0531be4560ec2db295e28a3c6954c7",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa6cbdd6ae6596b5ee57f67df70cc7c801129464f",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f1969209e18f24282ce6fae9c27f6e1fe5a1d1b",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x391e5dc227cdcf3cca012e5278798121236b1861",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7bc9e2d216b22611d9805c12e0c682391720752f",
+    "price": 116611,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6fb7cc0b6f0fcef9cf7c560beb68954efc142608",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7b8bf6d5557b7c1b5b0235b7cc2aca6345534cdd",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x80ba48973490a94941eaec6be8dbcff6a5aa8892",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaccb6fa47e2da8f937f6e33bc25b68328b370d2e",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b9b4f9b704faae29f600c04b12af92fb518604f",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x37fdacd764aa64f4e453842d8056853e5550c09b",
+    "price": 0,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xffec1057a5dd33fc74f453b88a6c62cc3d9446be",
+    "price": 0.999866,
+    "time": 1755879080067,
+    "source": "kong"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dcc2ecaff01525fbcab3ed18823270f912a380a",
+    "price": 0,
+    "time": 1755879080067,
     "source": "kong"
   },
   {
     "chainId": 8453,
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "price": 115736,
-    "time": 1755610109889,
+    "price": 116611,
+    "time": 1755879075874,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
-    "price": 4740.15,
-    "time": 1755610109889,
+    "price": 5135.8,
+    "time": 1755879075874,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
     "price": 1.17,
-    "time": 1755610109889,
+    "time": 1755879075874,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x4200000000000000000000000000000000000006",
-    "price": 4306.73,
-    "time": 1755610109889,
+    "price": 4683.79,
+    "time": 1755879075874,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
-    "price": 5196.71,
-    "time": 1755610109889,
+    "price": 5614.28,
+    "time": 1755879075875,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-    "price": 0.999897,
-    "time": 1755610109889,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 8453,
-    "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
-    "price": 0.999877,
-    "time": 1755610109889,
+    "price": 0.999865,
+    "time": 1755879075875,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-    "price": 115736,
-    "time": 1755610112106,
+    "price": 116611,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
-    "price": 4740.15,
-    "time": 1755610112106,
+    "price": 5135.8,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
     "price": 1.17,
-    "time": 1755610112106,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x4200000000000000000000000000000000000006",
-    "price": 4306.73,
-    "time": 1755610112106,
+    "price": 4683.79,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
-    "price": 115714,
-    "time": 1755610112106,
+    "price": 116201,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
-    "price": 5196.71,
-    "time": 1755610112106,
+    "price": 5614.28,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
-    "price": 0.999899,
-    "time": 1755610112106,
+    "price": 0.999866,
+    "time": 1755879078066,
     "source": "coingecko"
   },
   {
     "chainId": 8453,
     "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
-    "price": 0.999877,
-    "time": 1755610112106,
+    "price": 0.999549,
+    "time": 1755879078066,
     "source": "coingecko"
   }
 ]

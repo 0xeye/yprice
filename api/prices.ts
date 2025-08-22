@@ -15,6 +15,6 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     res.status(200).json(prices);
   } catch (error) {
     console.error('Error fetching all prices:', error);
-    res.status(500).json({ error: 'Internal server error', details: error.message });
+    res.status(500).json({ error: 'Internal server error', details: error instanceof Error ? error.message : String(error) });
   }
 }

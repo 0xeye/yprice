@@ -18,9 +18,30 @@ export async function updatePrices(): Promise<void> {
       const vaultTokens = tokens.filter(token => token.price); // Priced via share price
       const assetTokens = tokens.filter(token => !token.price); // Priced via coingecko
 
-      // Fetch missing prices from CoinGecko
+      // Fetch asset prices from CoinGecko first
       const tokenPrices: Price[] = await fetchPricesFromCoinGecko(assetTokens);
-      const vaultPrices = remapVaultToPrice(vaultTokens);
+      
+      // Create a map of asset prices for easy lookup
+      const assetPriceMap = new Map<string, number>();
+      tokenPrices.forEach(price => {
+        assetPriceMap.set(price.address.toLowerCase(), price.price);
+      });
+      
+      // Calculate vault prices using pricePerShare * asset price
+      const vaultPrices = vaultTokens.map(vault => {
+        const assetAddress = vault.assetAddress?.toLowerCase();
+        const assetPrice = assetAddress ? assetPriceMap.get(assetAddress) || 0 : 0;
+        const vaultPrice = vault.price! * assetPrice;
+        
+        return {
+          chainId: vault.chainId,
+          address: vault.address.toLowerCase(),
+          price: vaultPrice,
+          time: Date.now(),
+          source: 'kong',
+        } as Price;
+      });
+      
       const prices = [...vaultPrices, ...tokenPrices];
 
       console.log(`Saving ${prices.length} prices for chain ${chainId}`);

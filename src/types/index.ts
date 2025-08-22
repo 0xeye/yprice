@@ -12,6 +12,7 @@ export interface Token {
   symbol?: string;
   decimals?: number;
   price?: number;
+  assetAddress?: string;
 }
 
 export const SUPPORTED_CHAINS = [1, 10, 137, 250, 8453, 42161] as const;
