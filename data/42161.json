@@ -2,1401 +2,1429 @@
   {
     "chainId": 42161,
     "address": "0xf387b6e2fe6da433c911fe64c487ad50a8762395",
-    "price": 6398.277330897807,
-    "time": 1756113796956,
+    "price": 6336.107114132187,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x9fa306b1f4a6a83fec98d8ebbabedff78c407f6b",
-    "price": 1.0868554702720001,
-    "time": 1756113796956,
+    "price": 1.086921297,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xb739ae19620f7ecb4fb84727f205453aa5bc1ad2",
-    "price": 1.095368244256,
-    "time": 1756113796956,
+    "price": 1.0954384451999999,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x044e75fcbf7bd3f8f4577ff317554e9c0037f145",
-    "price": 5258.791465781084,
-    "time": 1756113796956,
+    "price": 5211.459962673567,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x252b965400862d94bda35fecf7ee0f204a53cc36",
-    "price": 0.9852217343380327,
-    "time": 1756113796956,
+    "price": 0.9821323400666673,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x1dd930add968ff5913c3627daa1e6e6fcc9dc544",
-    "price": 4857.846582311833,
-    "time": 1756113796956,
+    "price": 4809.160709326873,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xe82d060687c014b280b65df24acd94a77251c784",
-    "price": 1.171288310192,
-    "time": 1756113796956,
+    "price": 1.1713578525000001,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x34a2b066af16409648ef15d239e656edb8790ca0",
     "price": 1.0184650641213362,
-    "time": 1756113796956,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xa5944beaed63153c916bff9b407246b6c87ebf99",
-    "price": 1.001738629248,
-    "time": 1756113796956,
+    "price": 1.001737627317,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xcacc53bacce744ac7b5c1ec7eb7e3ab01330733b",
-    "price": 1.19571537856,
-    "time": 1756113796956,
+    "price": 1.195727180106,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x0f2ae7531a83982f15ff1d26b165e2bf3d7566da",
-    "price": 4873.176162735369,
-    "time": 1756113796956,
+    "price": 4827.1372363898145,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xa4b8873b4629c20f2167c0a2bc33b6af8699ddc1",
-    "price": 1.2336443296319999,
-    "time": 1756113796958,
+    "price": 1.2337086168,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x6faf8b7ffee3306efcfc2ba9fec912b4d49834c1",
-    "price": 1.0862124071680002,
-    "time": 1756113796958,
+    "price": 1.086218319396,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x39ce72ace7722fe38a4aff02bfbe7789b58c6905",
-    "price": 0.5551544735252472,
-    "time": 1756113796958,
+    "price": 0.5443371516893529,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x7deb119b92b76f78c212bc54fbbb34cea75f4d4a",
-    "price": 0.5549829372614611,
-    "time": 1756113796958,
+    "price": 0.5441689860147363,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xc0ba9bfed28ab46da48d2b69316a3838698ef3f5",
-    "price": 1.095849381748,
-    "time": 1756113796958,
+    "price": 1.097319,
+    "time": 1756119438083,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x49448d2b94fb9c4e41a30ad8315d32f46004a34b",
-    "price": 1.0344280334122546,
-    "time": 1756113796958,
+    "price": 1.0314004391681213,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x1dba7641dc69188d6086a73b972ac4bda29ec35d",
-    "price": 1.1158808102262372,
-    "time": 1756113796958,
+    "price": 1.1158810922232518,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x4ae5ce819e7d678b07e8d0f483d351e2c8e8b8d3",
-    "price": 2.098857592876,
-    "time": 1756113796958,
+    "price": 2.101673,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x2e48847fe29c3883c98125cb2c44244d6602d549",
-    "price": 1.000332931312,
-    "time": 1756113796958,
+    "price": 1.0003769523000001,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x034f12a217405d54bf2654b66a96fa74ad715951",
-    "price": 0.999856,
-    "time": 1756113796958,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x9a5eca1b228e47a15bd9fab07716a9fce9eebfb5",
-    "price": 1.009551603632,
-    "time": 1756113796958,
+    "price": 1.0095960303,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x1bd173f9a1186a1abe680071e0f57d4d83c18430",
-    "price": 1.5540471849759998,
-    "time": 1756113796958,
+    "price": 1.5541215723,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xda3b69a45797dca697ff5bb2c10682f14373c063",
-    "price": 1.106884585664,
-    "time": 1756113796958,
+    "price": 1.1069372952,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x45aceaa535830c921316085e355e4a32385e53f2",
-    "price": 1.216680220404,
-    "time": 1756113796958,
+    "price": 1.218313,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x630c9050e6b0014c6fe4c214d4840909345adb7d",
     "price": 1.0142680521297496,
-    "time": 1756113796958,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x85c4a935cc57cd96411e09c354cd43c03bacc04a",
-    "price": 1.5620960199679998,
-    "time": 1756113796958,
+    "price": 1.562094457572,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xd89ee1e95f7728f6964cf321e2648ccd29a881f1",
-    "price": 24.603557209856,
-    "time": 1756113796958,
+    "price": 24.603728563746003,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xe6dbfb035b44e94d07f7b3e4f6bfbf1c6e68e3d0",
-    "price": 1.014589161472,
-    "time": 1756113796958,
+    "price": 1.014588146688,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x2b0b6376083c6e1f376c7439f328436a673f333c",
-    "price": 1.023097527552,
-    "time": 1756113796958,
+    "price": 1.023096504258,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x635e3b274b37175bcd67c94a5093387aff96cf3d",
-    "price": 1.0137423240960002,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xa7fea37ae7eb3fe0b26ab454399cf42fe5e308a3",
-    "price": 0.999808,
-    "time": 1756113796958,
+    "price": 1.013741310159,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x3004fa50d2ea9353820c5d344e7d8428b956feec",
-    "price": 0.999462,
-    "time": 1756113796958,
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa7fea37ae7eb3fe0b26ab454399cf42fe5e308a3",
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x0b6fe1296c077af6c5be2487d74a51ed9ccd3a0c",
-    "price": 0.999462,
-    "time": 1756113796958,
+    "price": 1,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x571293fd9d9716d50ba48aa1628840d7fa166b20",
-    "price": 12020.191218548232,
-    "time": 1756113796958,
+    "price": 11898.295363205134,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xbe7d1b3cf19eb05ac557be14af24e093fadfd7c6",
-    "price": 0.999808,
-    "time": 1756113796958,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x5108db0852c0caa2df797dcf31f8a73bfb335452",
-    "price": 1.200511785484,
-    "time": 1756113796958,
+    "price": 1.202113,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x85968bf0f1f110c707fef10a59f80118f349c058",
-    "price": 1.68399746944,
-    "time": 1756113796958,
+    "price": 1.6840795752,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x02822b7b6de0bf087dcea626f6f19a838aedb7be",
-    "price": 2.6900109101916327,
-    "time": 1756113796958,
+    "price": 2.6600107885166335,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xdf9640332bcfd3b16cb80c1287ed04b875d9a384",
-    "price": 1.0230995271680001,
-    "time": 1756113796958,
+    "price": 1.023098503872,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x127a7f610cc704be6122dfa76eb61e84c9cb0efd",
-    "price": 2.6713162750560002,
-    "time": 1756113796958,
+    "price": 2.6714338299000002,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x3ffa0c3fba4adfe2b6e4d7e2f8e6e6324be5305b",
-    "price": 1.0012997920639999,
-    "time": 1756113796958,
+    "price": 1.0013438556,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x12bf88c63bf060355a8d2e4c6ee960365a5e8335",
-    "price": 0.999808,
-    "time": 1756113796958,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xda9889b85831ab8841edd3618e1595a7fef96fa8",
-    "price": 5.75365508608,
-    "time": 1756113796958,
+    "price": 5.75364933132,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xb80a800fa0b5b5fb102063b2a8afd84a8b5bab2c",
-    "price": 1.00408717824,
-    "time": 1756113796958,
+    "price": 1.00408617396,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x172dd6fd105b9fda87a238d110c92bb0ae30305d",
-    "price": 13.449571205521147,
-    "time": 1756113796958,
+    "price": 13.299575987615707,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0xd21e503d8ac357a7c8f8897bf84a4bfd14fec6e1",
-    "price": 0.999808,
-    "time": 1756113796958,
+    "address": "0x2ae37f40235f3721dc78176ddbd100a12a8ce19c",
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0x2e505e3bc847895ff4ae0021a1b0e739848a1a8f",
-    "price": 0.999808,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xea7dd7285350d1153510069ac4b382a96e479683",
-    "price": 0.999856,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2ec7fa7a87eba241636b2c03ba287ac3897601fc",
-    "price": 1.0321369979747987,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x25843b795cac88730482fc947d097317fb5f4c0d",
-    "price": 0.999462,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xa5aae5a1aca3e2235e1bd0c229baed5d7727cb47",
-    "price": 4836.554427381503,
-    "time": 1756113796958,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x9ece499d9a9362462c471e734ade2820308ad8e6",
-    "price": 0.999462,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x445300a0b0fcde8081f311c2991de613299df4d7",
-    "price": 1.1011,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2ef26b0e34ea0dba2068bc8df7c4c2a7a9620a80",
-    "price": 0.998668,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xd131ab951f6fbdee17d8f1cb7bed5a376de52d62",
-    "price": 0.999462,
-    "time": 1756113796959,
+    "address": "0x637e74b654105a3646b20dce34197d88f336ab1a",
+    "price": 399.45980397519025,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x0475b2264dc4fb17d6f4294c1494b527059f85b3",
     "price": 1.1011,
-    "time": 1756113796959,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xdf14128edd7e9fa9c5fb7a77cdfbe1a369cf235d",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2ae37f40235f3721dc78176ddbd100a12a8ce19c",
-    "price": 0.999856,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xf7d015bd465beaf7360064f451fdf16949199848",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xb05ab608a67ab26daee9df49624ae767cf346076",
-    "price": 4602.38,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x8e5850e7e9fc0bed03c31fe7a567cae5df3c5cb0",
-    "price": 4602.38,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x720c7797c6d9ecc8d3ed882a4a23b5d2b06a2fe1",
-    "price": 4481.86222671979,
-    "time": 1756113796959,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x257b497249460ea8406f34940592d4a69b24e9d3",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0x7f9b714965cd915011e651f5cd9622315b60616a",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x62a6d4b860f43d1e52529e21c9c74ddfeaafc168",
-    "price": 5303.474,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x9b10812ca07e59b109b6a815c6f2fb9072c7dcad",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "address": "0x445300a0b0fcde8081f311c2991de613299df4d7",
+    "price": 1.1011,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x1b9d41757f410bd60b853a0a52c1c323f5d5cd74",
-    "price": 0.998668,
-    "time": 1756113796959,
+    "price": 1,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0xc21a609c0fce6c97332f5f63996525d15b7e0cf4",
-    "price": 4852.12,
-    "time": 1756113796959,
+    "address": "0x720c7797c6d9ecc8d3ed882a4a23b5d2b06a2fe1",
+    "price": 4438.313263188115,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0x846e7a8451f59b9ff587f40a9f183aedcd2aa4fd",
-    "price": 0.999462,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xbb87642e2359b9e9a3dab35e3c9620306cda6d00",
-    "price": 4602.38,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x48bf6f6f1cccbf22d3dcb7cda68fa14ba55b78f2",
-    "price": 5337.332,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaefcac86e45deb5ea671d86e7e98e6968abf665a",
-    "price": 4967.133827106187,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x3ce71021cca8a2902764a43c60ff5f8a312245f9",
-    "price": 138463.593,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x3518ffff84e40229d9925afd57a6f4bdf1fa5879",
-    "price": 5303.474,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2d25ce68aad6ffef1585ff05bc621db1f9f2e499",
-    "price": 0.999856,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2afbd11c6bd53f1abd0fad43e854dae2a044e500",
-    "price": 0.999462,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2c28c7d3b482e9bceceff1a57f9ccea490e9daa1",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x9cd4a7c7e7869aa8a2a6b28da6b4cfa1f3e2f1f0",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xc50783461b48038fbf5449ce46562d19cb33fd3e",
-    "price": 4602.38,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x6ac368e13f893b14e2b4dc01eb83c89a06b9a039",
-    "price": 5557.22,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x67c2e47682d7b32c3294a67a0cd14c150cbc10f0",
-    "price": 0.999462,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xeadb712d95f347c3223261ef0f67505579eac159",
-    "price": 0.999808,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xe43c0bbbfc34575927798b8ba9d58ae58f2be3c6",
-    "price": 5331.129999233592,
-    "time": 1756113796959,
-    "source": "yearn"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4b0ea5b94773332c49d59aa80aef62dfa69bfee4",
-    "price": 4882.620392472022,
-    "time": 1756113796959,
+    "address": "0x8e5850e7e9fc0bed03c31fe7a567cae5df3c5cb0",
+    "price": 4557.66,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x8b25cfbac2ac634071cbccb20f298b176fd86007",
-    "price": 5557.22,
-    "time": 1756113796959,
+    "price": 5502.9,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0xace460a8e3f5f219ea9ddb10a0764aedee8c09e1",
-    "price": 0.999808,
-    "time": 1756113796959,
+    "address": "0x9b10812ca07e59b109b6a815c6f2fb9072c7dcad",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x25843b795cac88730482fc947d097317fb5f4c0d",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaefcac86e45deb5ea671d86e7e98e6968abf665a",
+    "price": 4922.427374739148,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc21a609c0fce6c97332f5f63996525d15b7e0cf4",
+    "price": 4806.28,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x846e7a8451f59b9ff587f40a9f183aedcd2aa4fd",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xb05ab608a67ab26daee9df49624ae767cf346076",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2e505e3bc847895ff4ae0021a1b0e739848a1a8f",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x67c2e47682d7b32c3294a67a0cd14c150cbc10f0",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2c28c7d3b482e9bceceff1a57f9ccea490e9daa1",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3ce71021cca8a2902764a43c60ff5f8a312245f9",
+    "price": 137217.358,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9ece499d9a9362462c471e734ade2820308ad8e6",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xe43c0bbbfc34575927798b8ba9d58ae58f2be3c6",
+    "price": 5283.147416587518,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x08e3d13d50310afbea2da20a3dbd92aacfc503ac",
+    "price": 5502.9,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xfe7aebd759c6e251afa44af17de4cc88f83ff6a4",
-    "price": 0.998668,
-    "time": 1756113796959,
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xedc4949adb7c6e7aeed4ae2545cb4aef82583bd8",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2afbd11c6bd53f1abd0fad43e854dae2a044e500",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9cd4a7c7e7869aa8a2a6b28da6b4cfa1f3e2f1f0",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd21e503d8ac357a7c8f8897bf84a4bfd14fec6e1",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeadb712d95f347c3223261ef0f67505579eac159",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x48bf6f6f1cccbf22d3dcb7cda68fa14ba55b78f2",
+    "price": 5286.908,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xaa4342c2693ab5de6d3663fe87d9a92cf18cb9b6",
     "price": 1.1011,
-    "time": 1756113796959,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0xedc4949adb7c6e7aeed4ae2545cb4aef82583bd8",
-    "price": 0.999808,
-    "time": 1756113796959,
+    "address": "0x6ac368e13f893b14e2b4dc01eb83c89a06b9a039",
+    "price": 5502.9,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3518ffff84e40229d9925afd57a6f4bdf1fa5879",
+    "price": 5250.322000000001,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xace460a8e3f5f219ea9ddb10a0764aedee8c09e1",
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0xc40da6a01ac36f39736731ee50fb3b1b8204e2d3",
-    "price": 12020.191206469704,
-    "time": 1756113796959,
+    "price": 11898.295351249095,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2ec7fa7a87eba241636b2c03ba287ac3897601fc",
+    "price": 1.0321369979747987,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc50783461b48038fbf5449ce46562d19cb33fd3e",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x985c0271ad0bf0a45951b64eb6fc58010b050908",
+    "price": 399.45980397519025,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x7f9b714965cd915011e651f5cd9622315b60616a",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x62a6d4b860f43d1e52529e21c9c74ddfeaafc168",
+    "price": 5250.322000000001,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x20db1d8e053e448428b19dbc7c6eed1ccb851023",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
-    "address": "0x08e3d13d50310afbea2da20a3dbd92aacfc503ac",
-    "price": 5557.22,
-    "time": 1756113796959,
+    "address": "0x4b0ea5b94773332c49d59aa80aef62dfa69bfee4",
+    "price": 4836.492242551798,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xea7dd7285350d1153510069ac4b382a96e479683",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xd131ab951f6fbdee17d8f1cb7bed5a376de52d62",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2ef26b0e34ea0dba2068bc8df7c4c2a7a9620a80",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2d25ce68aad6ffef1585ff05bc621db1f9f2e499",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xa5aae5a1aca3e2235e1bd0c229baed5d7727cb47",
+    "price": 4788.081946716154,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbb87642e2359b9e9a3dab35e3c9620306cda6d00",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "yearn"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf7d015bd465beaf7360064f451fdf16949199848",
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "yearn"
   },
   {
     "chainId": 42161,
     "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796959,
+    "price": 4557.66,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-    "price": 4927.53,
-    "time": 1756113796959,
+    "price": 4883.18,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796959,
+    "price": 0.979397,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-    "price": 4821.34,
-    "time": 1756113796959,
+    "price": 4773.02,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "price": 1.001,
-    "time": 1756113796959,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796959,
+    "price": 0.979397,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796959,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796959,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796959,
+    "price": 0.979397,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "price": 4852.12,
-    "time": 1756113796959,
+    "price": 4806.28,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796959,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-    "price": 0.552922,
-    "time": 1756113796960,
+    "price": 0.542148,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-    "price": 0.552922,
-    "time": 1756113796960,
+    "price": 0.542148,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353",
-    "price": 1.025,
-    "time": 1756113796960,
+    "price": 1.022,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x30df229cefa463e991e29d42db0bae2e122b2ac7",
-    "price": 1.0341949437044529,
-    "time": 1756113796960,
+    "price": 1.034195205058429,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x59bf0545fca0e5ad48e13da269facd2e8c886ba4",
     "price": 1.0068158031806689,
-    "time": 1756113796960,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
-    "price": 5228.32,
-    "time": 1756113796960,
+    "price": 5175.3,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
-    "price": 2.69,
-    "time": 1756113796960,
+    "price": 2.66,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
-    "price": 2.69,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 2.66,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbfca4230115de8341f3a3d5e8845ffb3337b2be3",
+    "price": 399.45980397519025,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "price": 1.001,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "price": 1.001,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "price": 5502.9,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "price": 4883.18,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "price": 4806.28,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "price": 4883.18,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "price": 4883.18,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "price": 5502.9,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "price": 1,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "price": 4806.28,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "price": 1.001,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
+    "price": 5502.9,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+    "price": 4773.02,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+    "price": 0.979397,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "price": 5175.3,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4bd135524897333bec344e50ddd85126554e58b4",
     "price": 1.0321369979747987,
-    "time": 1756113796960,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "price": 4557.66,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xbfca4230115de8341f3a3d5e8845ffb3337b2be3",
+    "price": 399.45980397519025,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-    "price": 4821.34,
-    "time": 1756113796960,
+    "price": 4773.02,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "price": 0.9999,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "price": 4806.28,
+    "time": 1756119438084,
+    "source": "coingecko"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-    "price": 1.001,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-    "price": 1.001,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 1,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
+    "price": 0.9999,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-    "price": 4821.34,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "price": 4852.12,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
+    "price": 4773.02,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "price": 4852.12,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-    "price": 4927.53,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-    "price": 4927.53,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
-    "price": 4821.34,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
+    "price": 4557.66,
+    "time": 1756119438084,
     "source": "coingecko"
   },
   {
     "chainId": 42161,
     "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "price": 4602.38,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
-    "price": 5557.22,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
-    "price": 0.999462,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
-    "price": 4927.53,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "price": 4852.12,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
-    "price": 5557.22,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-    "price": 0.998668,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-    "price": 1.001,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-    "price": 0.999808,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
-    "price": 5228.32,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
-    "price": 0.982479,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "price": 0.999856,
-    "time": 1756113796960,
-    "source": "coingecko"
-  },
-  {
-    "chainId": 42161,
-    "address": "0x5979d7b546e38e414f7e9822514be443a4800529",
-    "price": 5557.22,
-    "time": 1756113796960,
+    "price": 0.999807,
+    "time": 1756119438084,
     "source": "coingecko"
   }
 ]
