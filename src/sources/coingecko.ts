@@ -1,4 +1,4 @@
-import type { Price, Token } from '../types';
+import type { Price, Token } from '../types/index.js';
 
 const COINGECKO_API = 'https://api.coingecko.com/api/v3/simple/token_price';
 
